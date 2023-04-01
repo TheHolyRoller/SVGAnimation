@@ -1,0 +1,188 @@
+
+/* 
+
+
+
+
+
+
+*/
+
+
+
+*, *::after,*::before{
+
+    
+    
+}
+
+
+:root{
+
+    
+    
+}
+
+html{
+
+    scroll-behavior: smooth;
+    
+}
+
+
+body{
+
+}
+
+    
+:root{
+                
+    --dark-color: #635bff;
+    --light-color: #80e9ff;
+     
+}
+
+svg{
+    cursor: pointer;
+    
+    
+}
+    
+#Dark{
+    fill: var(--dark-color);
+}
+
+#Light{
+    
+    fill: var(--light-color); 
+    
+    
+}
+
+#Dark2, #Dark2, #Light1{
+    transition: all 1s ease;
+    
+}
+
+
+#Dark2{
+    
+transform: translateX(50%);
+opacity: 0; 
+
+    
+}
+
+svg:hover #Light1 {
+
+transform: translateX(-20%);
+opacity: 0; 
+
+}
+
+svg:hover #Dark2{
+    
+    transform: translateX(10%); 
+    /* opacity: 0;  */
+    opacity: 1; 
+    
+}
+
+svg:hover #Dark2{
+    
+    transform: translateX(0%);
+    
+    
+    
+}
+
+
+
+
+/* Add in the main container here  */
+
+
+
+
+
+/* Add in the media queries here  */
+
+
+
+
+/* Add in the animations here  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
